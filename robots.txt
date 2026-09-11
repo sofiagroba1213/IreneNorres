@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /aula/
+Disallow: /pedido/
+Disallow: /mis-cursos/
